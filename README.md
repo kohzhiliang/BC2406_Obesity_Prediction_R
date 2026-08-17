@@ -22,4 +22,3 @@ R · randomForest · nnet · rpart · caret · pROC · ggplot2 · data.table · 
 - `ObesityDataSet_raw_and_data_sinthetic.csv` — dataset
 - `Report.docx`
 
-*Note: group project; my contribution = [INSERT YOUR PART]. This repo overlaps with the BC2407 ML project; consider archiving if BC2407 already covers your ML story.*
